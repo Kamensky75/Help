@@ -1,2 +1,6 @@
 iuhuig
+<<<<<<< HEAD
 jlkhvwkjb
+=======
+Абракадабра
+>>>>>>> 30f5fbe01080aee2a5757f10b1960a1fe2576a3a
